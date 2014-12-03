@@ -3,6 +3,11 @@ package edu.udima.es.integrasaas.servidor;
 import org.eclipse.jetty.server.Server;
 import org.eclipse.jetty.webapp.WebAppContext;
 
+/**
+ * 
+ * @author Choffl
+ *
+ */
 public class JettyServer {
 	
 	public static void main(String[] args) throws Exception{
