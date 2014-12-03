@@ -92,7 +92,7 @@
 					<generateRepository>true</generateRepository>
 					<programs>
 						<program>
-							<mainClass>org.chamerling.heroku.jetty.JettyServer</mainClass>
+							<mainClass>edu.udima.es.integrasaas.servidor.JettyServer</mainClass>
 							<name>webapp</name>
 						</program>
 					</programs>
