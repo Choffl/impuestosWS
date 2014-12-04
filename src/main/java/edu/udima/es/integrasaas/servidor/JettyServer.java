@@ -4,9 +4,9 @@ import org.eclipse.jetty.server.Server;
 import org.eclipse.jetty.webapp.WebAppContext;
 
 /**
- * 
- * @author Choffl
- *
+ * Levanta una instancia de un servidor Jetty en el puerto 9191 y
+ * lee el web.xml que configura el Servlet de Apache CXF para usar el protocolo HTTP
+ * @author Sofia Sabariego
  */
 public class JettyServer {
 	
